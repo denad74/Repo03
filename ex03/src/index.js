@@ -1,6 +1,6 @@
 function main() {
   // Only change code below this line
-  var forCar;
+  var forCat;
   // Only change code above this line
 }
 
